@@ -1,0 +1,14 @@
+Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
+The DriverPass project was to develop a comprehensive training system that was geared towards driver training. Their goal was to provide a training that involved online training and courses, practice tests, and physical training with an instructor. The system was responsible for maintaining that training in a comprehensive manner from maintaining appointments to offering the online classes, and more. 
+
+What did you do particularly well?
+I feel as though one of the strongest points along the analysis and design of the DriverPass system, was my considerations during the User Interface Design. I addressed the different types of users, services provided, the platform, and types of interactions in a sophisticated yet easy to understand manner. I also ensured that the user-interface would remain user friendly. 
+
+If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+If I were to revise my work, I would likely incorporate more user stories into the design. The use of more specific use cases would simply increase the likelyhood of ensuring all the necessary user interactions and and design requirements were adequate.
+
+How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
+I interpreted the user's needs by analyzing the client's requirements for preferences and workflow of the system. Taking those aspects into account ensured that the system design wasn't void of any required aspects. It is important to consider the needs of the user as they have a large impact on the way the system functions, how efficient it will be, and ultimately how satisfied the user will be. Creating a design with a user-focused mindset ensuresthat the system is effective to their needs, easy-to-use, and ensures that the user is setup for success in using the system. 
+
+How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
+As previously mentioned, I approach software design using a user-centered approach. Remaining focused on how the user will behave and their needs inside the system is very important. Techniques to use to ensure that I remain user-focused include user interviews and user stories. These allow me to gain the necessary insights to continue development with a user-centered mindset. Finally, iterative development that includes user testing ensures that, should there be any "bumps in the road", the system is continuously redesigned to meet the the client and users' needs. In the future, I will continue to use these methods to analyze and refine system design in a comprhensive manner. 
